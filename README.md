@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/-C%23-0099C?style=flat-square&logo=Cpp&logoColor=fff)
 ![](https://img.shields.io/badge/-易语言-00599C?style=flat-square&logo=Cpp&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Vue-5c823d?style=flat-square&logo=JavaScript&logoColor=fff)
+![](https://img.shields.io/badge/-Vue-5c823d?style=flat-square&logo=Vue&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-376611?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
