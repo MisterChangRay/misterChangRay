@@ -3,8 +3,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=MisterChangRay&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
-### 关于我
-
 欢迎来到我的GitHub主页。
 
 🌟 **My Skills**  
