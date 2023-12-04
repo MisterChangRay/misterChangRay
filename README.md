@@ -1,4 +1,5 @@
 ### Hi Everyone 👋
+![](https://komarev.com/ghpvc/?username=MisterChangRay&color=dc143c)
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=MisterChangRay&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
