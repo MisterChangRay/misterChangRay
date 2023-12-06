@@ -18,7 +18,7 @@
 
 了解更多可以点击下面的链接：  
 
-个人博客：[github.com/MisterChangRay/Blog](https://github.com/MisterChangRay/Blog)  
+个人博客：[misterchangray.github.io](https://misterchangray.github.io/)  
 
 CSDN：[blog.csdn.net/jioulongzi](https://blog.csdn.net/jioulongzi?type=blog)  
 
