@@ -14,7 +14,9 @@
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-5c823d?style=flat-square&logo=Vue&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-376611?style=flat-square&logo=JavaScript&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-316611?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Go-336311?style=flat-square&logo=Go&logoColor=fff)
+![](https://img.shields.io/badge/-Rust-356511?style=flat-square&logo=Rust&logoColor=fff)
 
 了解更多可以点击下面的链接：  
 
